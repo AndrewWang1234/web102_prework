@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/D6V86EQ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/BEFEFn5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- ScreenToGif -->
 GIF created with ...  
-<!-- Recommended tools:
+<!-- Recommended tools:[ScreenToGif]
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
