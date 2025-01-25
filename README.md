@@ -27,8 +27,8 @@ Here's a walkthrough of implemented features:
 https://i.imgur.com/BEFEFn5.gif
 
 <!-- ScreenToGif -->
-GIF created with ...  
-<!-- Recommended tools:[ScreenToGif]
+GIF created with ...  [ScreenToGif]
+<!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
